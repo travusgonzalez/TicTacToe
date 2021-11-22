@@ -1,0 +1,15 @@
+/Users/travus/Dev/Games/TicTacToe/bin/Debug/net5.0/TicTacToe.deps.json
+/Users/travus/Dev/Games/TicTacToe/bin/Debug/net5.0/TicTacToe.runtimeconfig.json
+/Users/travus/Dev/Games/TicTacToe/bin/Debug/net5.0/TicTacToe.runtimeconfig.dev.json
+/Users/travus/Dev/Games/TicTacToe/bin/Debug/net5.0/TicTacToe.dll
+/Users/travus/Dev/Games/TicTacToe/bin/Debug/net5.0/ref/TicTacToe.dll
+/Users/travus/Dev/Games/TicTacToe/bin/Debug/net5.0/TicTacToe.pdb
+/Users/travus/Dev/Games/TicTacToe/obj/Debug/net5.0/TicTacToe.csproj.AssemblyReference.cache
+/Users/travus/Dev/Games/TicTacToe/obj/Debug/net5.0/TicTacToe.GeneratedMSBuildEditorConfig.editorconfig
+/Users/travus/Dev/Games/TicTacToe/obj/Debug/net5.0/TicTacToe.AssemblyInfoInputs.cache
+/Users/travus/Dev/Games/TicTacToe/obj/Debug/net5.0/TicTacToe.AssemblyInfo.cs
+/Users/travus/Dev/Games/TicTacToe/obj/Debug/net5.0/TicTacToe.csproj.CoreCompileInputs.cache
+/Users/travus/Dev/Games/TicTacToe/obj/Debug/net5.0/TicTacToe.dll
+/Users/travus/Dev/Games/TicTacToe/obj/Debug/net5.0/ref/TicTacToe.dll
+/Users/travus/Dev/Games/TicTacToe/obj/Debug/net5.0/TicTacToe.pdb
+/Users/travus/Dev/Games/TicTacToe/obj/Debug/net5.0/TicTacToe.genruntimeconfig.cache
